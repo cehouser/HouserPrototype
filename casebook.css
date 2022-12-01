@@ -1,0 +1,74 @@
+/* Everything rows 2-34 are for the naviagtion bar.
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #5bba57;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #e38c30;
+  color: black;
+}
+
+/* Add an active class to highlight the current page */
+.topnav a.active {
+  background-color: #5bba57;
+  color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
+}
+header {background-color: #ffffff;}
+body {
+    background-color: #ffffff;
+}
+
+.body { color:floralwhite; 
+    width: 70%; 
+    background-color: #78bf75;
+    margin: auto; 
+    padding: 5%}
+
+.column1{ color:floralwhite; 
+    width: 30%; 
+    margin: auto; 
+    padding: 5%}
+
+    
+}
+
+.column2{float:right;
+width:30%;
+padding-right: 15%
+}
+
+h1 { color: #0da30d; width: 100%; font-size: 300%
+}
+
+h2 { background-color: #78bf75; color: floralwhite; font: }
+
+p { background-color: #78bf75; color: floralwhite}
+
+.yelowbody { background-color:#78bf75; color: black}
+
+a{
+    color: #FFFFFF
+}
+
+h4 {
+    width: 400px
+}
